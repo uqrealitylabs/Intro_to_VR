@@ -38,3 +38,18 @@ plan to create games that can be published to the Unity Asset Store or to the wi
 ![Step 4b](./images/Unity%202020.3.31f1%20Installation/Step4b.png)
 5. Read through the license and agreements and proceed with the rest of the steps.
 
+### VR Builder installation
+1. Go to the [VR Builder](https://assetstore.unity.com/packages/tools/visual-scripting/vr-builder-open-source-toolkit-for-vr-creation-201913)
+asset link. Click on "Add to my Assets" highlighted by the red circle. Make sure you are logged in or signed up to Unity,
+either by clicking the button highlighted by the blue circle or on page redirection on pressing "Add to my Assets"
+![Step1](./images/VR%20Builder%20Installation/Step%201.png)
+2. Create a New project by clicking on the New Project button.
+3. As part of this step make sure to select the correct editor version, the 3D template and the name that you prefer
+(Note: Don't choose the VR template, it starts creating conflict issues with VR builder)
+![Step2](./images/VR%20Builder%20Installation/Step%202.png)
+4. Once the project opens, go to Windows > Package Manager to open the Unity Package Manager.
+5. Make sure to change the listed packages to be "My Assets", select on VR Builder, click on Download and then Import.
+Accept any prompts that come up and choose "Fix All" for any error correction prompts.
+![Step3](./images/VR%20Builder%20Installation/Step%203.png)
+
+That should complete installation, we will continue with the VR project setup in the workshop. See you there!
